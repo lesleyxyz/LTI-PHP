@@ -1,8 +1,8 @@
 {
-  "name": "celtic/lti",
+  "name": "lesleyxyz/lti",
   "description": "PHP class library for building LTI integrations",
   "keywords": ["LTI"],
-  "homepage": "https://github.com/celtic-project/LTI-PHP",
+  "homepage": "https://github.com/lesleyxyz/LTI-PHP",
   "type": "library",
   "license": "LGPL-3.0-or-later",
   "authors": [
